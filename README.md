@@ -1,6 +1,6 @@
 👋 Hi, I’m Kashave Sathyvell <br/>
 👀 I’m interested in backend development, game development, and exploring new technologies.<br/>
-🌱 I’m currently learning more about full-stack web development and algorithm optimization.<br/>
+🌱 I’m currently learning more about full-stack web development.<br/>
 🤝 I’m looking to collaborate on projects related to Full Stack webpages or backend applications.<br/>
 📫 You can reach me via email at kashavesathyvell15@gmail.com or through my social media profiles.<br/>
 -LinkedIn: www.linkedin.com/in/kashave-sathyvell-a7263a265<br/>
